@@ -24,7 +24,7 @@ and their contexts in the fields of experimental music and fine art.
 5. Understand the ethos and culture of hardware hacking and its important place in DIY (do-it-yourself) art communities.
 6. Learn to provide and receive constructive criticism on work produced in the class.
 
-### Overview
+### Course Overview
 
 Week 1 - Introductions/Syllabus, A Mic is a Speaker is a Mic  
 Week 2 - Soldering (How To), Cables and Making Your Own  
@@ -41,6 +41,11 @@ Week 12 - Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters
 Week 13 - Going digital with Arduino  
 Week 14 - **Final Presentations**
 
+### Weekly Schedule
+TBA  
+
+### Syllabus
+TBA  
 
 ## Additional Reading / Links
 
