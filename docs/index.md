@@ -7,6 +7,7 @@
 **Email:** wpb245@nyu.edu  
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
+**Syllabus:** [docs link](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
 
 ### Course Description
 Using the seminal book [*Handmade Electronic Music*](https://bobcat.library.nyu.edu/permalink/f/141j2p5/nyu_aleph003835343) by Nicholas Collins as our guide, students will experiment building, modifying, hacking basic analog electronics and audio circuits in a hands-on environment.  From opening up common battery-powered objects like toys and radios, we can gain strategic access to their circuit boards and change their intended behavior - for predictable and unpredictable outcomes.  But it is almost always a satisfying endeavor.
@@ -26,7 +27,7 @@ and their contexts in the fields of experimental music and fine art.
 
 ### Overview
 
-Week 1 - Introductions/Syllabus, A Mic is a Speaker is a Mic  
+Week 1 - Introductions/Syllabus, A Mic is a Speaker is a Mic [Slides](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)
 Week 2 - Soldering (How To), Cables and Making Your Own  
 Week 3 - Contact Mics, Electret Mics, DIY D.I., Tape Heads  
 Week 4 - Amps/Transducers, Alternative Speakers, Simple Mixers with Photoresistors & Pots  
