@@ -27,13 +27,13 @@ and their contexts in the fields of experimental music and fine art.
 
 ### Overview
 
-Week 1 - Introductions/Syllabus, [A Speaker is a mic is a speaker (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)  
-Week 2 - Soldering (How To), Cables and Making Your Own  
-Week 3 - Contact Mics, Electret Mics, DIY D.I., Tape Heads  
-Week 4 - Amps/Transducers, Alternative Speakers, Simple Mixers with Photoresistors & Pots  
-Week 5 - Hackers Amp build  
+Week 1 - Introductions/Syllabus, [A Speaker is a mic is a speaker, Ground Rules (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)  
+Week 2 - Rules of Electronics, Soldering (How To), Cables and Making Your Own  
+Week 3 - Contact Mics, Electret Mics, DIY D.I., Analog Tape
+Week 4 - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers
+Week 5 - Breadboards, Hackers Amp build
 Week 6 - The Basics of Circuit Bending, Hacking Toys  
-Week 7 - **MidTerm Presentations**  
+Week 7 - **MidTerm Presentations**
 Week 8 - Breadboarding, Your First Oscillator, Adding Modifications  
 Week 9 - Breadboarding cont., Basic Electronic Components, Reading & Drawing Schematics  
 Week 10 - Atari Punk Console / Crackle Boxes Assignment  
