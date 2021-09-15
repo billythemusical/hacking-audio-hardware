@@ -5,9 +5,12 @@
 **Class Meeting Time:** Tuesdays 2:00pm - 4:50pm  
 **Instructor:** Billy Bennett  
 **Email:** wpb245@nyu.edu  
+
+### Helpful Links
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
-**Syllabus:** [docs link](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
+**Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
+**Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)
 
 ### Course Description
 Using the seminal book [*Handmade Electronic Music*](https://bobcat.library.nyu.edu/permalink/f/141j2p5/nyu_aleph003835343) by Nicholas Collins as our guide, students will experiment building, modifying, hacking basic analog electronics and audio circuits in a hands-on environment.  From opening up common battery-powered objects like toys and radios, we can gain strategic access to their circuit boards and change their intended behavior - for predictable and unpredictable outcomes.  But it is almost always a satisfying endeavor.
@@ -45,7 +48,12 @@ Week 14 - **Final Presentations**
 
 ## Additional Reading / Links
 
+[Handmade Electronic Music Video Tutorials](http://www.nicolascollins.com/HEM3/tutorials.htm)  
+- Many of our in-class workshops are covered here  
 [Reed Ghazala's Art of Circuit Bending](http://www.anti-theory.com/soundart/circuitbend/)  
+- Lots of great and esoteric info on cirtuit bending and making and festooning your own enclosures  
+[Timers, Op Amps, and Optoelectronic Circuits & Projects](https://www.amazon.com/Timer-Amp-Optoelectronic-Circuits-Projects/dp/0945053290) by Forrest Mims  
+- Utilizing the 555 timer IC and other components to make timers, oscillators, button debouncers, chirping devices, and more  
 [The Art of the Creative Short Cicruit](http://www.anti-theory.com/texts/EM/index.html)  
 [DataMath](http://www.datamath.org/Story/CircuitBending.htm)  
 [Warranty Void](http://weltenschule.de/TableHooters/WarrantyVoidFAQ.htm)  
