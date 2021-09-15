@@ -1,6 +1,6 @@
 # Hacking Audio Hardware
 
-## Course Info  
+### Course Info  
 **Course Number:** DM-GY 9103  
 **Term:** Fall 2021  
 **Location:** 370 Jay St, Room 308  
@@ -8,7 +8,7 @@
 **Instructor:** Billy Bennett  
 **Email:** wpb245@nyu.edu  
 
-## Helpful Links
+### Helpful Links
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
 **Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)  
@@ -48,7 +48,7 @@ Week 13 - Going digital with Arduino
 Week 14 - **Final Presentations**  
 
 
-## Additional Reading / Links
+### Additional Reading / Links
 
 [Handmade Electronic Music Video Tutorials](http://www.nicolascollins.com/HEM3/tutorials.htm) - Many of our in-class workshops are covered here  
 [Reed Ghazala's Art of Circuit Bending](http://www.anti-theory.com/soundart/circuitbend/) - Lots of great and esoteric info on cirtuit bending and making and festooning your own enclosures  
