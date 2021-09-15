@@ -3,7 +3,7 @@
 ## Course Info  
 **Course Number:** DM-GY 9103  
 **Term:** Fall 2021  
-**Location:** 370 Jay St, Room 308
+**Location:** 370 Jay St, Room 308  
 **Meeting Time:** Tuesdays 2:00pm - 4:50pm  
 **Instructor:** Billy Bennett  
 **Email:** wpb245@nyu.edu  
@@ -11,8 +11,8 @@
 ## Helpful Links
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
-**Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
-**Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)
+**Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)  
+**Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)  
 
 ## Course Description
 Using the seminal book [*Handmade Electronic Music*](https://bobcat.library.nyu.edu/permalink/f/141j2p5/nyu_aleph003835343) by Nicholas Collins as our guide, students will experiment building, modifying, hacking basic analog electronics and audio circuits in a hands-on environment.  From opening up common battery-powered objects like toys and radios, we can gain strategic access to their circuit boards and change their intended behavior - for predictable and unpredictable outcomes.  But it is almost always a satisfying endeavor.
@@ -30,7 +30,7 @@ and their contexts in the fields of experimental music and fine art.
 5. Understand the ethos and culture of hardware hacking and its important place in DIY (do-it-yourself) art communities.
 6. Learn to provide and receive constructive criticism on work produced in the class.
 
-## Course Overview
+## Course Overview & Slides
 
 Week 1 - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), [A Speaker is a mic is a speaker, Ground Rules (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)  
 Week 2 - [Rules of Electronics, Soldering (How To), Connectors, Cables and Making Your Own](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
