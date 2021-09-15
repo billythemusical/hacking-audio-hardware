@@ -28,7 +28,7 @@ and their contexts in the fields of experimental music and fine art.
 ### Overview
 
 Week 1 - Introductions/Syllabus, [A Speaker is a mic is a speaker, Ground Rules (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)  
-Week 2 - Rules of Electronics, Soldering (How To), Cables and Making Your Own  
+Week 2 - [Rules of Electronics, Soldering (How To), Connectors, Cables and Making Your Own](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
 Week 3 - Contact Mics, Electret Mics, DIY D.I., Analog Tape  
 Week 4 - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers  
 Week 5 - Breadboards, Hackers Amp build  
