@@ -32,18 +32,34 @@ and their contexts in the fields of experimental music and fine art.
 
 ## Course Overview & Slides
 
-Week 1 - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), [A Speaker is a mic is a speaker, Ground Rules (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)  
-Week 2 - [Rules of Electronics, Soldering (How To), Connectors, Cables and Making Your Own](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
-Week 3 - Contact Mics, Electret Mics, DIY D.I., Analog Tape  
-Week 4 - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers  
-Week 5 - Breadboards, Hackers Amp build  
-Week 6 - The Basics of Circuit Bending, Hacking Toys  
-Week 7 - **MidTerm Presentations**  
-Week 8 - Breadboarding, Your First Oscillator, Adding Modifications  
-Week 9 - Breadboarding cont., Basic Electronic Components, Reading & Drawing Schematics  
-Week 10 - Atari Punk Console / Crackle Boxes Assignment  
-Week 11 - Enclosures - Improvised and other, Laser Cutting, Box-building  
-Week 12 - Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters  
+Week 1 - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), [A Speaker is a mic is a speaker, Ground Rules (Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing) 
+- ASSIGNMENT - DUE NEXT CLASS: Add your blog to [this sheet](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0) 
+- TO DO: 
+  - Sign up for training to use the [IDM Proto Lab](http://idm.engineering.nyu.edu/protolab/) (preferred) or the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/)  
+  - Get your own [rechargeable 9v battery setup](https://www.amazon.com/EBL-Rechargeable-Batteries-Battery-Charger/dp/B079G37Y61/ref=sr_1_3?dchild=1&keywords=9v+rechargeable+batteries+with+charger&qid=1631477602&s=electronics&sr=1-3)  
+
+Week 2 - [Rules of Electronics, Basic Electronic Components, Audio Connectors (Slides)](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
+
+Week 3 - [Breadboarding, Your First Oscillator, Adding Modifications (Slides)](https://docs.google.com/presentation/d/1-EDzDrOS77cCitP-0Bf-hZKDujBbLkg2Xf4AGk78QNk/edit#slide=id.gf256d10b19_0_25)  
+
+- ASSIGNMENT - DUE NEXT CLASS: 
+  - Try one of the following:  
+
+    a. Assemble a variation of the basic oscillator circuit we built in class by replacing the potentiometer with another resistive element. There are some examples in the slides for this week and more in our text book, Handmade Electronic Music, 3rd Edition, on page 103.  
+
+    b. Connect any (or all) of the additional oscillators on the 74HC14 chip, although be aware this may not work as expected since we are working with the wrong voltage for the 74HC14 chip.  
+
+  - Post a video of the resulting experiment to your blog with notes on the process.  Even if you fail, show your work and explain what you think has gone wrong.  Mistakes can be very instructive.  
+
+Week 4 - Breadboarding cont., Reading & Drawing Schematics  
+Week 5 - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers
+Week 6 - Soldering Workshop, Making Connectors, Cables 
+Week 7 - Enclosures - Improvised and other, Laser Cutting, Box-building
+Week 8 - **MidTerm Presentations**   
+Week 9 -  Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters 
+Week 10 - The Basics of Circuit Bending, Hacking Toys  
+Week 11 - Analog Tape   
+Week 12 - Contact Mics, Electret Mics, The DIY D.I.
 Week 13 - Going digital with Arduino  
 Week 14 - **Final Presentations**  
 
