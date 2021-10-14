@@ -32,50 +32,40 @@ and their contexts in the fields of experimental music and fine art.
 
 ## Course Overview & Slides
 
-**Week 1 - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), Lecture: A Speaker is a mic is a speaker, Ground Rules** [(Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)
-- ASSIGNMENT - DUE NEXT CLASS: Add your blog to [this sheet](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0) 
-- TO DO: 
+**Week 1** - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), Lecture: A Speaker is a mic is a speaker, Ground Rules [(Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)
+
+- [Assignment 1 - Set up your blog](docs/assignments.md) - due next class
+
+- To Do:
   - Sign up for training to use the [IDM Proto Lab](http://idm.engineering.nyu.edu/protolab/) (preferred) or the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/)  
   - Get your own [rechargeable 9v battery setup](https://www.amazon.com/EBL-Rechargeable-Batteries-Battery-Charger/dp/B079G37Y61/ref=sr_1_3?dchild=1&keywords=9v+rechargeable+batteries+with+charger&qid=1631477602&s=electronics&sr=1-3)  
 
-**Week 2 - Rules of Electronics, Basic Electronic Components, Audio Connectors** [(Slides)](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
+**Week 2** - Rules of Electricity, Basic Electrical Components, Audio Connectors [(Slides)](https://docs.google.com/presentation/d/1efWNUDPk0h1TynfMdZVpLxOjdQhohWu7YLQNH0dOrB4/edit?usp=sharing)  
 
-**Week 3 - Breadboarding, Your First Oscillator, Adding Modifications** [(Slides)](https://docs.google.com/presentation/d/1-EDzDrOS77cCitP-0Bf-hZKDujBbLkg2Xf4AGk78QNk/edit#slide=id.gf256d10b19_0_25)  
+**Week 3** - Breadboarding, My First Oscillator, Adding Modifications [(Slides)](https://docs.google.com/presentation/d/1-EDzDrOS77cCitP-0Bf-hZKDujBbLkg2Xf4AGk78QNk/edit#slide=id.gf256d10b19_0_25)  
 
-- ASSIGNMENT - DUE NEXT CLASS: 
-  - Try one of the following:  
+- [Assignment 2 - Oscillator Variation](docs/assignments.md) - due next class
 
-    a. Assemble a variation of the basic oscillator circuit we built in class by replacing the potentiometer with another resistive element. There are some examples in the slides for this week and more in our text book, Handmade Electronic Music, 3rd Edition, on page 103.  
+**Week 4** - Breadboarding cont., Reading & Drawing Schematics [Slides](https://docs.google.com/presentation/d/1seI8x_yt6gibYntiaUch7kJuSkzcuYkVgojwtgdJvfY/edit?usp=sharing)  
 
-    b. Connect any (or all) of the additional oscillators on the 74HC14 chip, although be aware this may not work as expected since we are working with the wrong voltage for the 74HC14 chip.  *Update: we now have the 40106 Hex Inverter chips available.*
+**Week 5** - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers  [Slides](https://docs.google.com/presentation/d/1UQaH8Z6PDEX3RyZpvyM7HtjcS4XLoo4gqNlqg3Z_l8U/edit?usp=sharing)  
 
-  - Post a video of the resulting experiment to your blog with notes on the process.  Even if you fail, show your work and explain what you think has gone wrong.  Mistakes can be very instructive.  
+- [Assignment 3 - Build a new CMOS circuit](docs/assignments.md) - due Oct 19th
 
-**Week 4 - Breadboarding cont., Reading & Drawing Schematics** [Slides](https://docs.google.com/presentation/d/1seI8x_yt6gibYntiaUch7kJuSkzcuYkVgojwtgdJvfY/edit?usp=sharing)  
+- To Do:
+  - Get trained at the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/) if you haven’t already.   
 
-**Week 5 - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers**  [Slides](https://docs.google.com/presentation/d/1UQaH8Z6PDEX3RyZpvyM7HtjcS4XLoo4gqNlqg3Z_l8U/edit?usp=sharing)  
+**!!!! Remeber we do not have class on Oct 12th. !!!!**
 
-  - ASSIGNMENT - DUE OCT 19TH: 
-    - Using material from our book or other online resources,  build a circuit that you haven’t made before.  Document your work and post pics and video to your blog.  Talk about what worked and what didn’t.  Did you have to substitute parts?  Did you have to purchase anything?  If so, where from and how much was it?  Did it turn out the way you had hoped?  Post the schematic and resource that you used as well.  Redraw the schematic if you think you can do it better or more clearly.
-  
-  - TO DO:
-    - Get trained at the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/) if you haven’t already.   
-
-    Here is a [list of great online resources](https://docs.google.com/document/d/1gjxx1U3bvpT6oQhSrtqmzX7B6Rh5-sLsodaqWs2NgYs/edit?usp=sharing) for learning more about CMOS chips and finding schematics.  
-
-    Here is a [photo](https://user-images.githubusercontent.com/40703526/136622346-d040cb75-12e4-4d15-bb26-1cf647be22c9.png) of some helpful resistor and capacitor combinations and their frequency ranges.
-
-  *Remeber we do not have class on Oct 12th.*
-  
-Week 6 - Soldering Workshop, Making Connectors, Cables  
-Week 7 - Enclosures - Improvised and other, Laser Cutting, Box-building  
-Week 8 - **MidTerm Presentations**   
-Week 9 -  Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters  
-Week 10 - The Basics of Circuit Bending, Hacking Toys  
-Week 11 - Working with Analog Tape  
-Week 12 - Contact Mics, Electret Mics, The DIY D.I.  
-Week 13 - Going digital with Arduino  
-Week 14 - **Final Presentations**  
+**Week 6** - Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
+**Week 7** - Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters  
+**Week 8** - **MidTerm Presentations - Enclosed Circuit**
+**Week 9** -  Contact Mics, Electret Mics, The DIY D.I.  
+**Week 10** - Mixer Build  
+**Week 11** - Working with Analog Tape  
+**Week 12** - The Basics of Circuit Bending, Hacking Toys  
+**Week 13** - Going Digital - connecting to a DAW, Max, and Arduino  
+**Week 14** - **Final Presentations - Tape Looped**  
 
 
 ### Additional Reading / Links
