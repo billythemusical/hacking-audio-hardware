@@ -58,6 +58,9 @@ and their contexts in the fields of experimental music and fine art.
 **!!!! Remeber we do not have class on Oct 12th. !!!!**
 
 **Week 6** - Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
+
+- [Midterm Assignment - From breadboard to protoboard and enclosure](docs/assignments.md)
+
 **Week 7** - Additional Circuits - Filtering, Gating, Sequencing, FM Transmitters  
 **Week 8** - **MidTerm Presentations - Enclosed Circuit**
 **Week 9** -  Contact Mics, Electret Mics, The DIY D.I.  
