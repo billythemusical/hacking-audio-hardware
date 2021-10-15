@@ -34,7 +34,7 @@ and their contexts in the fields of experimental music and fine art.
 
 **Week 1** - Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), Lecture: A Speaker is a mic is a speaker, Ground Rules [(Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing)
 
-- [Assignment 1 - Set up your blog](assignments.md) - due next class
+- [Assignment 1 - Set up your blog](assignments.html) - due next class
 
 - To Do:
   - Sign up for training to use the [IDM Proto Lab](http://idm.engineering.nyu.edu/protolab/) (preferred) or the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/)  
@@ -44,13 +44,13 @@ and their contexts in the fields of experimental music and fine art.
 
 **Week 3** - Breadboarding, My First Oscillator, Adding Modifications [(Slides)](https://docs.google.com/presentation/d/1-EDzDrOS77cCitP-0Bf-hZKDujBbLkg2Xf4AGk78QNk/edit#slide=id.gf256d10b19_0_25)  
 
-- [Assignment 2 - Oscillator Variation](assignments.md) - due next class
+- [Assignment 2 - Oscillator Variation](assignments.html) - due next class
 
 **Week 4** - Breadboarding cont., Reading & Drawing Schematics [Slides](https://docs.google.com/presentation/d/1seI8x_yt6gibYntiaUch7kJuSkzcuYkVgojwtgdJvfY/edit?usp=sharing)  
 
 **Week 5** - Simple Mixers with Photoresistors & Pots, Enclosures, Amps/Transducers, Alternative Speakers  [Slides](https://docs.google.com/presentation/d/1UQaH8Z6PDEX3RyZpvyM7HtjcS4XLoo4gqNlqg3Z_l8U/edit?usp=sharing)  
 
-- [Assignment 3 - Build a new CMOS circuit](assignments.md) - due Oct 19th
+- [Assignment 3 - Build a new CMOS circuit](assignments.html) - due Oct 19th
 
 - To Do:
   - Get trained at the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/) if you haven’t already.   
@@ -59,7 +59,7 @@ and their contexts in the fields of experimental music and fine art.
 
 **Week 6** - Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
 
-- [MIDTERM Assignment - From breadboard to protoboard and enclosure](assignments.md)
+- [MIDTERM Assignment - From breadboard to protoboard and enclosure](assignments.html)
 
 **Week 7** - Additional Circuits - Filtering, Gating, Sequencing
 **Week 8** - **MidTerm Presentations - Enclosed Circuit**
