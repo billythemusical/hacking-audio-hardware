@@ -61,7 +61,7 @@ and their contexts in the fields of experimental music and fine art.
 
 - [MIDTERM Assignment - From breadboard to protoboard and enclosure](assignments.html)
 
-##### Week 7** - Additional Circuits - Filtering, Gating, Sequencing
+##### Week 7 - Additional Circuits - Filtering, Gating, Sequencing
 ##### Week 8 - **MidTerm Presentations - Enclosed Circuit**
 ##### Week 9 -  Contact Mics, Electret Mics, The DIY D.I.  
 ##### Week 10 - Mixer Build  
