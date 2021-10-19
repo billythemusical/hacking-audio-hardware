@@ -12,10 +12,10 @@
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
 **Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
- 
+
 **Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)  
-**Assignments Page:** [link](docs/assignments.html)
-**Midterm Project:** [link](docs/midterm.html)
+**Assignments Page:** [link](assignments.html)
+**Midterm Project:** [link](midterm.html)
 **Final Project:** (tbd)
 
 ## Course Description
