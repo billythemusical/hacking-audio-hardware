@@ -37,7 +37,8 @@ Post a video of the resulting experiment to your blog with notes on the process.
 
    - Using material from our book or other online resources,  build a circuit that you haven’t made before.  Document your work and post pics and video to your blog.  
 
-   Some guidance:
+   Some guidance:  
+   💻 Use a battery-powered speaker like we did in class.
    💻 Talk about what worked and what didn’t.  
    💻 Did you have to substitute parts?  
    💻 Did you have to purchase anything?  If so, where from and how much was it?  
