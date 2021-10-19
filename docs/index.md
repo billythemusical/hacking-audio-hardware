@@ -60,15 +60,18 @@ and their contexts in the fields of experimental music and fine art.
 
 *❗ ❗ ❗ Remeber we do not have class on Oct 12th. ❗ ❗ ❗*
 
-##### Week 6 - Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
+##### Week 6 - [Slides](https://docs.google.com/presentation/d/1-bR5iref0CXQHKx2WsXhWMqogBl6NNbq2Eg1dKrKwvM/edit?usp=sharing) Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
 
 - To Do:
-  - [MIDTERM Assignment](assignments.html), Phase 1 - due Oct 26th
+  - Catch up on all [Assignments](assignments.html)!
 
-##### Week 7 - Additional Circuits - Filtering, Gating, Sequencing
+##### Week 7 - Enclosures continued, Additional Circuits, Filtering, Sequencing
+- To Do:
+  - [MIDTERM Assignment](midterm.html), Phase 1 - due Nov 3rd  
+
 ##### Week 8 - Contact Mics, Electret Mics, The DIY D.I.
-##### Week 9 - **MidTerm Presentations**  
-##### Week 10 - Working with Analog Tape
+##### Week 9 - Audio Lab visit - Working with Analog Tape
+##### Week 10 - **MidTerm Presentations**
 ##### Week 11 - The Basics of Circuit Bending, Hacking Toys
 ##### Week 12 - Mixer Build
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
