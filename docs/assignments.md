@@ -50,16 +50,23 @@ Post a video of the resulting experiment to your blog with notes on the process.
 ## Midterm Project
 *Create Your Own Alien Instrument - From idea to enclosure*
 
-You will have 4 weeks to complete this assignment.  The weeks are broken into phases, culminating in a midterm "show and tell".
+This project constitutes 30% of your grade and you will have 4 weeks to complete this assignment.  The weeks are broken into phases, culminating in a midterm "show and tell".  
+
+You will be building a circuit is affixed to an enclosure of some type.  The constraints on the device are as follows:
+
+✔️ It must be capable of making sound.  
+✔️ It must be interactive - the user must be able to effect the sound.  
+✔️ It should be battery- (or solar-) powered - nothing that plugs into the wall!  
+✔️ The enclosure should hide some (or all) aspects of the inner workings of the device.
+
+Feel free to be creative and clever with these constraints, except where obvious shortcuts detract from the final product.  
 
 #### Phase 1 - Make a plan
 *Due on Oct 26th*
 
 In this phase, you will choose a circuit you'd like to make.  The only constraints are:
 
-  ✔️ It must be capable of making sound.  
-  ✔️ It must be interactive - the user must be able to effect the sound.  
-  ✔️ It should be battery- (or solar-) powered - nothing that plugs into the wall!  
+
 
 You will need to:
   1. Draw the connections to all the parts using standardized schematic notation.
