@@ -84,10 +84,8 @@ In this phase, you will:
 
 2. Move the design to protoboard.  This phase can be more difficult than expected.  It will take some adaptation to move your breadboard design to protoboard and you should be careful to inspect each set of connections for mistakes and short circuits.
 
-  *👾 Fixing it later is always much harder than getting it right the first time! 👾*
 
-3. Document the process along the way as helpful fixes may be revealed along the way.   Once the circuit is on the protoboard, you should post a video of it working as planned.
-
+*👾 Fixing it later is always much harder than getting it right the first time! 👾*
 
 #### Phase 3 - Protoboard to enclosure
 *Due on Nov 16th*
