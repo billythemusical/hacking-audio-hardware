@@ -34,9 +34,8 @@ and their contexts in the fields of experimental music and fine art.
 
 ##### Week 1 - [(Slides)](https://docs.google.com/presentation/d/1qheYEmGxHhcfj3TvRRTWEnvLvEMnhZB82_XswJIgf9U/edit?usp=sharing) Introductions, [Syllabus](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing), Lecture: A Speaker is a mic is a speaker, Ground Rules
 
-- [Assignment 1 - Set up your blog](assignments.html) - due next class
-
 - To Do:
+  - [Assignment 1 - Set up your blog](assignments.html) - due next class
   - Sign up for training to use the [IDM Proto Lab](http://idm.engineering.nyu.edu/protolab/) (preferred) or the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/)  
   - Get your own [rechargeable 9v battery setup](https://www.amazon.com/EBL-Rechargeable-Batteries-Battery-Charger/dp/B079G37Y61/ref=sr_1_3?dchild=1&keywords=9v+rechargeable+batteries+with+charger&qid=1631477602&s=electronics&sr=1-3)  
 
@@ -44,29 +43,30 @@ and their contexts in the fields of experimental music and fine art.
 
 ##### Week 3 - [(Slides)](https://docs.google.com/presentation/d/1-EDzDrOS77cCitP-0Bf-hZKDujBbLkg2Xf4AGk78QNk/edit#slide=id.gf256d10b19_0_25)  Breadboarding, My First Oscillator, Adding Modifications
 
-- [Assignment 2 - Oscillator Variation](assignments.html) - due next class
+- To Do:
+  - [Assignment 2 - Oscillator Variation](assignments.html) - due next class
 
 ##### Week 4 - [(Slides)](https://docs.google.com/presentation/d/1seI8x_yt6gibYntiaUch7kJuSkzcuYkVgojwtgdJvfY/edit?usp=sharing)  Breadboarding cont., Reading & Drawing Schematics
 
 ##### Week 5 - [(Slides)](https://docs.google.com/presentation/d/1UQaH8Z6PDEX3RyZpvyM7HtjcS4XLoo4gqNlqg3Z_l8U/edit?usp=sharing) Gated Oscillator, Drawing Schematics, Filters
 
-- [Assignment 3 - Build a new CMOS circuit](assignments.html) - due Oct 19th
-
 - To Do:
+  - [Assignment 3 - Build a new CMOS circuit](assignments.html) - due Oct 19th
   - Get trained at the [Tandon Makerspace](https://makerspace.engineering.nyu.edu/training-and-reservations/) if you haven’t already.   
 
-*!!!!----- Remeber we do not have class on Oct 12th. -----!!!!*
+*❗ ❗ ❗ Remeber we do not have class on Oct 12th. ❗ ❗ ❗*
 
 ##### Week 6 - Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
 
-- [MIDTERM Assignment - From breadboard to protoboard and enclosure](assignments.html)
+- To Do:
+  - [MIDTERM Assignment](assignments.html), Phase 1 - due Oct 26th
 
 ##### Week 7 - Additional Circuits - Filtering, Gating, Sequencing
-##### Week 8 - **MidTerm Presentations - Enclosed Circuit**
-##### Week 9 -  Contact Mics, Electret Mics, The DIY D.I.  
-##### Week 10 - Mixer Build  
-##### Week 11 - Working with Analog Tape  
-##### Week 12 - The Basics of Circuit Bending, Hacking Toys  
+##### Week 8 - Contact Mics, Electret Mics, The DIY D.I.
+##### Week 9 - **MidTerm Presentations**  
+##### Week 10 - Working with Analog Tape
+##### Week 11 - The Basics of Circuit Bending, Hacking Toys
+##### Week 12 - Mixer Build
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
 ##### Week 14 - **Final Presentations - Tape Looped**  
 
