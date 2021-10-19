@@ -57,7 +57,7 @@ You will have 4 weeks to complete this assignment.  The weeks are broken into ph
 
 In this phase, you will choose a circuit you'd like to make.  The only constraints are:
 
-  ✔️ It must be capable of making sound.
+  ✔️ It must be capable of making sound.  
   ✔️ It must be interactive - the user must be able to effect the sound.  
   ✔️ It should be battery- (or solar-) powered - nothing that plugs into the wall!  
 
@@ -68,7 +68,7 @@ You will need to:
 
 All of the items above should be posted to your blog with any accompanying pictures or videos.  We will discuss sources, components, tools, and possible builds in class.  
 
-*🚩🚩🚩After showing your plan in class, you should place an order for any parts that you need, remembering that some items may take longer than expected to arrive. 🚩🚩🚩*
+*🚩  After showing your plan in class, you should place an order for any parts that you need, remembering that some items may take longer than expected to arrive.*
 
 #### Phase 2 - Circuit to protoboard
 *Due on Nov 2nd*
@@ -78,7 +78,7 @@ In this phase, you will:
 
 2. Move the design to protoboard.  It will take some adaptation to move your breadboard design to protoboard and you should be careful to inspect each set of connections for mistakes and short circuits.
 
-  *👾👾👾 Fixing it later is always much harder than getting it right the first time! 👾👾👾*
+  *👾 Fixing it later is always much harder than getting it right the first time! 👾*
 
 3. Document the process along the way as helpful fixes may be revealed along the way.   Once the circuit is on the protoboard, you should post a video of it working as planned.
 
@@ -92,4 +92,4 @@ First you will prep the enclosure to receive the protoboard.  This includes dril
 
 Then you will mount the protoboard in your enclosure and affix any knobs, buttons, switches, and the like, and power the device.  
 
-We will have a day of "show and tell" once these are complete.  
+We will have a day of "show and tell" on the day the assignment is due.  
