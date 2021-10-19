@@ -11,8 +11,12 @@
 ### Helpful Links
 **Office Hours:** [calendar link](https://calendar.google.com/calendar/selfsched?sstoken=UU83Y25Jd3FfQnhjfGRlZmF1bHR8MTcyMDRkOTExMjgzY2QxOTVhYmFhZjM4MmRiMzg1MmM)  
 **Course Website:** https://billythemusical.github.io/hacking-audio-hardware  
-**Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)  
+**Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
+ 
 **Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)  
+**Assignments Page:** [link](docs/assignments.html)
+**Midterm Project:** [link](docs/midterm.html)
+**Final Project:** (tbd)
 
 ## Course Description
 Using the seminal book [*Handmade Electronic Music*](https://bobcat.library.nyu.edu/permalink/f/141j2p5/nyu_aleph003835343) by Nicholas Collins as our guide, students will experiment building, modifying, hacking basic analog electronics and audio circuits in a hands-on environment.  From opening up common battery-powered objects like toys and radios, we can gain strategic access to their circuit boards and change their intended behavior - for predictable and unpredictable outcomes.  But it is almost always a satisfying endeavor.
