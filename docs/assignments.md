@@ -1,10 +1,10 @@
 # Hacking Audio Hardware  
 
-### TO DO Items
+## TO DO Items
 
 "TO DO" items are weekly action items that fall under your Class Participation Grade (15%).  These help you stay prepared for each class and are usually given at the end of each week's slides.
 
-### Assignments
+## Assignments
 
 Assignments are given periodically and fall under the Blog and Documentation (25%) category of grading.  They are given throughout the semester and should be posted to your blog with the proper documentation as per the assignment.  These can be found below and are included in the slides for the week they were assigned.
 
@@ -35,6 +35,61 @@ Post a video of the resulting experiment to your blog with notes on the process.
 #### Assignment 3
 *Build a new CMOS circuit - Due Oct 19th*
 
-   - Using material from our book or other online resources,  build a circuit that you haven’t made before.  Document your work and post pics and video to your blog.  Talk about what worked and what didn’t.  Did you have to substitute parts?  Did you have to purchase anything?  If so, where from and how much was it?  Did it turn out the way you had hoped?  Post the schematic and resource that you used as well.  Redraw the schematic if you think you can do it better or more clearly.
+   - Using material from our book or other online resources,  build a circuit that you haven’t made before.  Document your work and post pics and video to your blog.  
 
-   - Here is a [list of great online resources](https://docs.google.com/document/d/1gjxx1U3bvpT6oQhSrtqmzX7B6Rh5-sLsodaqWs2NgYs/edit?usp=sharing) for learning more about CMOS chips and finding schematics.  
+   Some guidance:
+   💻 Talk about what worked and what didn’t.  
+   💻 Did you have to substitute parts?  
+   💻 Did you have to purchase anything?  If so, where from and how much was it?  
+   💻 Did it turn out the way you had hoped?  
+
+   - Post the schematic and resource that you used as well, whether it's online or from a book.  You can re-draw the schematic if you think you can do it better or more clearly.
+
+📝 Here is a [list of great online resources](https://docs.google.com/document/d/1gjxx1U3bvpT6oQhSrtqmzX7B6Rh5-sLsodaqWs2NgYs/edit?usp=sharing) for learning more about CMOS chips and finding schematics.  
+
+## Midterm Project
+*Create Your Own Alien Instrument - From idea to enclosure*
+
+You will have 4 weeks to complete this assignment.  The weeks are broken into phases, culminating in a midterm "show and tell".
+
+#### Phase 1 - Make a plan
+*Due on Oct 26th*
+
+In this phase, you will choose a circuit you'd like to make.  The only constraints are:
+
+  ✔️ It must be capable of making sound.
+  ✔️ It must be interactive - the user must be able to effect the sound.  
+  ✔️ It should be battery- (or solar-) powered - nothing that plugs into the wall!  
+
+You will need to:
+  1. Draw the connections to all the parts using standardized schematic notation.
+  2. Determine a build of materials, aka BOM, which includes sources for the materials and their prices.
+  3. Sketch a layout or configuration for the final enclosed device with a description of the device.  
+
+All of the items above should be posted to your blog with any accompanying pictures or videos.  We will discuss sources, components, tools, and possible builds in class.  
+
+*🚩🚩🚩After showing your plan in class, you should place an order for any parts that you need, remembering that some items may take longer than expected to arrive. 🚩🚩🚩*
+
+#### Phase 2 - Circuit to protoboard
+*Due on Nov 2nd*
+
+In this phase, you will:
+1. Build your circuit on a breadboard and then move it to a protoboard, soldering each connection in place.  By first starting on a breadboard, you can endure that the circuit is working as planned.  
+
+2. Move the design to protoboard.  It will take some adaptation to move your breadboard design to protoboard and you should be careful to inspect each set of connections for mistakes and short circuits.
+
+  *👾👾👾 Fixing it later is always much harder than getting it right the first time! 👾👾👾*
+
+3. Document the process along the way as helpful fixes may be revealed along the way.   Once the circuit is on the protoboard, you should post a video of it working as planned.
+
+
+#### Phase 3 - Protoboard to enclosure
+*Due on Nov 16th*
+
+You will have two weeks for this phase.  
+
+First you will prep the enclosure to receive the protoboard.  This includes drilling any holes and/or cutting any pieces necessary.  
+
+Then you will mount the protoboard in your enclosure and affix any knobs, buttons, switches, and the like, and power the device.  
+
+We will have a day of "show and tell" once these are complete.  
