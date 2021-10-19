@@ -24,7 +24,7 @@ Try one of the following:
 
 Post a video of the resulting experiment to your blog with notes on the process.  Even if you fail, show your work and explain what you think has gone wrong.  Mistakes can be very instructive.
 
-**Notes:** There are a number of choices for resistors listed on pg 103 of our textbook - Handmade Electronic Music, 3rd Ed.  Here are some of them:*
+**Here are some helpful notes:** There are a number of choices for resistors listed on pg 103 of our textbook - Handmade Electronic Music, 3rd Ed.  Here are some of them:*
 
   - Using some long leads, place a photoresistor in your mouth, using your mouth to control the amount of light and therefore the pitch! BUT… **💀 ONLY DO THIS IF YOU ARE SURE YOU ARE NOT PLUGGED INTO ANYTHING CONNECTED TO WALL POWER.  IN OTHER WORDS, BATTERY POWER ONLY!!! 💀**
 
