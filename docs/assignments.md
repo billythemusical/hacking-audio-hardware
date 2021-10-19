@@ -64,11 +64,9 @@ Feel free to be creative and clever with these constraints, except where obvious
 #### Phase 1 - Make a plan
 *Due on Oct 26th*
 
-In this phase, you will choose a circuit you'd like to make.  The only constraints are:
+In this phase, you will choose a circuit you'd like to make and plan for its construction.  It's wise to start modest, especially if you are new.  Once you make your first device, you will catch the bug and make more.  So consider this project just a starting place!
 
-
-
-You will need to:
+Please complete the following:
   1. Draw the connections to all the parts using standardized schematic notation.
   2. Determine a build of materials, aka BOM, which includes sources for the materials and their prices.
   3. Sketch a layout or configuration for the final enclosed device with a description of the device.  
@@ -83,7 +81,7 @@ All of the items above should be posted to your blog with any accompanying pictu
 In this phase, you will:
 1. Build your circuit on a breadboard and then move it to a protoboard, soldering each connection in place.  By first starting on a breadboard, you can endure that the circuit is working as planned.  
 
-2. Move the design to protoboard.  It will take some adaptation to move your breadboard design to protoboard and you should be careful to inspect each set of connections for mistakes and short circuits.
+2. Move the design to protoboard.  This phase can be more difficult than expected.  It will take some adaptation to move your breadboard design to protoboard and you should be careful to inspect each set of connections for mistakes and short circuits.
 
   *👾 Fixing it later is always much harder than getting it right the first time! 👾*
 
