@@ -15,7 +15,7 @@ You will be building a circuit is affixed to an enclosure of some type.  The con
 Feel free to be creative and clever with these constraints, except where obvious shortcuts detract from the final product.  
 
 #### Phase 1 - Make a plan
-*Due on Oct 26th*
+*Due on Nov 2nd*
 
 In this phase, you will choose a circuit you'd like to make and plan for its construction.  It's wise to start modest, especially if you are new.  Once you make your first device, you will catch the bug and make more.  So consider this project just a starting place!
 
@@ -29,7 +29,7 @@ All of the items above should be posted to your blog with any accompanying pictu
 *🚩  After showing your plan in class, you should place an order for any parts that you need, remembering that some items may take longer than expected to arrive.*
 
 #### Phase 2 - Circuit to protoboard
-*Due on Nov 2nd*
+*Due on Nov 9th*
 
 In this phase, you will:
 1. Build your circuit on a breadboard and then move it to a protoboard, soldering each connection in place.  By first starting on a breadboard, you can endure that the circuit is working as planned.  
@@ -40,7 +40,7 @@ In this phase, you will:
 *👾 Fixing it later is always much harder than getting it right the first time! 👾*
 
 #### Phase 3 - Protoboard to enclosure
-*Due on Nov 16th*
+*Due on Nov 23rd*
 
 You will have two weeks for this phase.  
 
