@@ -14,9 +14,9 @@
 **Syllabus:** [docs link - NYU only](https://docs.google.com/document/d/1rmMsHMCfXIE_s8nDgVjvcms0XinGn-VsMpUDeaeRRd0/edit?usp=sharing)
 
 **Student Blogs:** [sheets link - NYU only](https://docs.google.com/spreadsheets/d/1N3ReFHLPdkrUOZKwgPqg1gQX5DbbF7SZ2JsOboCK1Vc/edit#gid=0)  
-**Assignments Page:** [link](assignments.html)
-**Midterm Project:** [link](midterm.html)
-**Final Project:** (tbd)
+**Assignments Page:** [link](assignments.html)  
+**Midterm Project:** [link](midterm.html)  
+**Final Project:** [link](final_project.html)  
 
 ## Course Description
 Using the seminal book [*Handmade Electronic Music*](https://bobcat.library.nyu.edu/permalink/f/141j2p5/nyu_aleph003835343) by Nicholas Collins as our guide, students will experiment building, modifying, hacking basic analog electronics and audio circuits in a hands-on environment.  From opening up common battery-powered objects like toys and radios, we can gain strategic access to their circuit boards and change their intended behavior - for predictable and unpredictable outcomes.  But it is almost always a satisfying endeavor.
@@ -60,12 +60,12 @@ and their contexts in the fields of experimental music and fine art.
 
 *❗ ❗ ❗ Remeber we do not have class on Oct 12th. ❗ ❗ ❗*
 
-##### Week 6 - [Slides](https://docs.google.com/presentation/d/1-bR5iref0CXQHKx2WsXhWMqogBl6NNbq2Eg1dKrKwvM/edit?usp=sharing) Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
+##### Week 6 - [(Slides)](https://docs.google.com/presentation/d/1-bR5iref0CXQHKx2WsXhWMqogBl6NNbq2Eg1dKrKwvM/edit?usp=sharing) Protoboards, Making Enclosures - Improvised, Laser Cut, Build-Your-Own  
 
 - To Do:
   - Catch up on all [Assignments](assignments.html)!
 
-##### Week 7 - Enclosures continued, Additional Circuits, Filtering, Sequencing
+##### Week 7 - Enclosures cont., Additional Circuits, Filtering, Sequencing
 - To Do:
   - [MIDTERM Assignment](midterm.html), Phase 1 - due Nov 3rd  
 
