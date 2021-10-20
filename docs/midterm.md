@@ -3,6 +3,8 @@
 ## Midterm Project
 *Create Your Own Alien Instrument - From idea to enclosure*
 
+#### Overview
+
 This project constitutes 30% of your grade and you will have 4 weeks to complete this assignment.  The weeks are broken into phases, culminating in a midterm "show and tell".  
 
 You will be building a circuit is affixed to an enclosure of some type.  The constraints on the device are as follows:
