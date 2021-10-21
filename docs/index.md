@@ -63,6 +63,7 @@ and their contexts in the fields of experimental music and fine art.
 
 - To Do:
   - Catch up on all [Assignments](assignments.html)!
+  - Read Ch. 14 - Solder up!  Breadboard to Circuit Board from HEM, pages 112-117 in the 3rd Ed.
 
 ##### Week 7 - Enclosures cont., Additional Circuits, Filtering, Sequencing
 - To Do:
