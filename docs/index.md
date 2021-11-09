@@ -65,17 +65,26 @@ and their contexts in the fields of experimental music and fine art.
   - Catch up on all [Assignments](assignments.html)!
   - Read *Ch. 14 - Solder up!  Breadboard to Circuit Board* - pgs. 112 - 117 from HEM, 3rd Ed. 📗
 
-##### Week 7 - Enclosures cont., Additional Circuits, Filtering, Sequencing
+##### Week 7 - [(Slides)](https://docs.google.com/presentation/d/1DAz1oouwzqASo6HqbAzYFQiKHThFQfmNu1AE3kfzupc/edit?usp=sharing) Enclosures cont., Additional Circuits, Filtering, Sequencing
 - To Do:
-  - [MIDTERM Assignment](midterm.html), Phase 1 - due Nov 3rd  
+  - [MIDTERM Assignment](midterm.html), Phase 1 - due Nov 2nd
 
-##### Week 8 - Contact Mics, Electret Mics, The DIY D.I.
-##### Week 9 - Audio Lab visit - Working with Analog Tape
-##### Week 10 - **MidTerm Presentations**
-##### Week 11 - The Basics of Circuit Bending, Hacking Toys
-##### Week 12 - Mixer Build
+##### Week 8 - [(Slides)]() Contact Mics, Audio Lab Studio Visit
+- To Do:
+  - [MIDTERM Assignment](midterm.html), Phase 2 - due Nov 9th
+
+##### Week 9 - [(Slides)](https://docs.google.com/presentation/d/1bRk2AvkIJIT1cAMMhKyNw5l-6zsgy_iTnnLYp_JHPX0/edit?usp=sharing) Electret Mics, The DIY D.I.
+- To Do:
+  - [MIDTERM Assignment](midterm.html), Phase 3 - due Nov 23rd  
+
+##### Week 10 - Working with Analog Tape, Mixers, More Circuits
+- To Do:
+  - [MIDTERM Assignment](midterm.html), Phase 3 - due Nov 23rd    
+
+##### Week 11 - **MidTerm Presentations**
+##### Week 12 - The Basics of Circuit Bending, Hacking Toys
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
-##### Week 14 - **Final Presentations - Tape Looped**  
+##### Week 14 - **Final Presentations**  
 
 ### Weekly Schedule
 TBA  
