@@ -77,11 +77,12 @@ and their contexts in the fields of experimental music and fine art.
 - To Do:
   - [MIDTERM Assignment](midterm.html), Phase 3 - due Nov 23rd  
 
-##### Week 10 - Working with Analog Tape, Mixers, More Circuits
+##### Week 10 - [(Slides)](https://docs.google.com/presentation/d/1patcwJ6pJmurKWekeNjyR4Y-Lqlzrp8vnBjJUEnzyEg/edit?usp=sharing)  Working with Analog Tape, Mixers, More Circuits
 - To Do:
-  - [MIDTERM Assignment](midterm.html), Phase 3 - due Nov 23rd    
+  - [MIDTERM Assignment](midterm.html), Phase 3 - due Nov 23rd
+  - Link to [class recording](https://nyu.zoom.us/rec/share/p7xnr2D1HFRUByyC2OHHeU2AZSo3fwfGUPjyo-g-9XQ7YLcFa9cOMXmW1RFXKCrV.xCIklSNsZkyydcqF) - email me for password.
 
-##### Week 11 - **MidTerm Presentations**
+##### Week 11 - [(Slides)](https://docs.google.com/presentation/d/1uwDW2DsRvzYiv5rm955muYtjcjdSZGz2I0Np2_7ypSQ/edit?usp=sharing) **MidTerm Presentations**
 ##### Week 12 - The Basics of Circuit Bending, Hacking Toys
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
 ##### Week 14 - **Final Presentations**  
