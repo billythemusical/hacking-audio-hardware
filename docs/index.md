@@ -94,6 +94,7 @@ and their contexts in the fields of experimental music and fine art.
 
 [Handmade Electronic Music Video Tutorials](http://www.nicolascollins.com/HEM3/tutorials.htm) - Many of our in-class workshops are covered here  
 [Reed Ghazala's Art of Circuit Bending](http://www.anti-theory.com/soundart/circuitbend/) - Lots of great and esoteric info on circuit bending and making and festooning your own enclosures  
+[Circuit Benders UK ](https://www.circuitbenders.co.uk/tips.html) - Tips for circuit bending and a lot of custom mods on common (and not-so-common) instruments.  
 [Timers, Op Amps, and Optoelectronic Circuits & Projects](https://www.amazon.com/Timer-Amp-Optoelectronic-Circuits-Projects/dp/0945053290) by Forrest Mims - Great intro to electricity and electronics at the top.  Many circuits utilizing the 555 timer IC and other components to make timers, oscillators, button debouncers, chirping devices, and more using op-amps and transistors.  
 [The Art of the Creative Short Cicruit](http://www.anti-theory.com/texts/EM/index.html)  
 [DataMath](http://www.datamath.org/Story/CircuitBending.htm)  
