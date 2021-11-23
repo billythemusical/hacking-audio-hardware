@@ -83,6 +83,9 @@ and their contexts in the fields of experimental music and fine art.
   - Link to [class recording](https://nyu.zoom.us/rec/share/p7xnr2D1HFRUByyC2OHHeU2AZSo3fwfGUPjyo-g-9XQ7YLcFa9cOMXmW1RFXKCrV.xCIklSNsZkyydcqF) - email me for password.
 
 ##### Week 11 - [(Slides)](https://docs.google.com/presentation/d/1uwDW2DsRvzYiv5rm955muYtjcjdSZGz2I0Np2_7ypSQ/edit?usp=sharing) **MidTerm Presentations**
+- To Do:
+  - Acquire a [GI Joe Sonic Fighter Backpack](https://www.ebay.com/sch/i.html?_nkw=gi+joe+sonic+fighter+backpack&_sacat=0) for next week.  Don't spend more than $10 max.
+  - Read [Ch. 9 Designing Your Personal Alien Orchestra](https://eternobisiesto.files.wordpress.com/2012/10/circuit-bending-build-your-own-alien-instruments-reed-ghazala.pdf?page=138) from Creating Your Own Alien Instrument (Ghazala)
 ##### Week 12 - The Basics of Circuit Bending, Hacking Toys
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
 ##### Week 14 - **Final Presentations**  
