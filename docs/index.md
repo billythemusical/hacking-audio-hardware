@@ -86,6 +86,7 @@ and their contexts in the fields of experimental music and fine art.
 - To Do:
   - Acquire a [GI Joe Sonic Fighter Backpack](https://www.ebay.com/sch/i.html?_nkw=gi+joe+sonic+fighter+backpack&_sacat=0) for next week.  Don't spend more than $10 max.
   - Read [Ch. 9 Designing Your Personal Alien Orchestra](https://eternobisiesto.files.wordpress.com/2012/10/circuit-bending-build-your-own-alien-instruments-reed-ghazala.pdf?page=138) from Creating Your Own Alien Instrument (Ghazala)
+  - Read [Zombie Media: Circuit Bending Media Archaeology into an Art Method](https://s18798.pcdn.co/circuitbreakers/wp-content/uploads/sites/15297/2021/09/hertz-parikka-2012-zombie-media-leonardo-45-5.pdf) for some theory on hacking and circuit bending within the capitalist/materialist structure 🤘🏼
 ##### Week 12 - The Basics of Circuit Bending, Hacking Toys
 ##### Week 13 - Going Digital - connecting to a DAW, Max, and Arduino  
 ##### Week 14 - **Final Presentations**  
