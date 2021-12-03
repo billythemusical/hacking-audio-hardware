@@ -34,7 +34,7 @@ The Final Project is 30% of your final grade.  Please submit two (2) seperate bl
   - Note any changes or pivots that had to be made, mistakes that were fixed or not overcome, and future improvements, if any. 
   - Pictures + a sample of audio or video with audio of the final product.
 
-📌*Remember, it's just as much the effort and communication about your project that counts, not the final product alone.
+📌 Remember, it's just as much the effort and communication about your project that counts, not the final product alone.
 
 
 
