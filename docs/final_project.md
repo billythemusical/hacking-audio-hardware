@@ -1,7 +1,7 @@
 # Hacking Audio Hardware
 
 ## Final Project
-Due before class on Dec 14th.  Groups and teams are welcome!  Since we have less than two weeks left in the semester, the project should be something that can be accomplished before the last class.  Final grades are due Dec 20th, so any late work or extensions must be discussed with me immediately.  
+The Final Project is 30% of your final grade.  Please submit two (2) seperate blog posts, which will each count for half of your Final Project grade.  Groups and teams are welcome!  Since we have less than two weeks left in the semester, the project should be something that can be accomplished before the last class.  Final grades are due Dec 23rd, so any late work or extensions must be discussed with me immediately.  
 
 
 ### What To Do
@@ -22,12 +22,12 @@ We discussed the following options for a final project:
 ### How To Do It + Grading
 The Final Project is 30% of your final grade.  Please submit two (2) seperate blog posts, which will each count for half of your Final Project grade:  
 
-✔️ First post is your proposal plan
+✔️ **Due Dec 7th** - First post is your proposal plan
   - This will include any drawings or ideation processes, mood boards, inspiration, etc.
-  - A build of materials with links for sources and prices.
-  - A basic plan of operations, i.e. first I will... and then... etc.  
+  - This might also include build of materials with links for sources and prices...
+  - .. and a basic plan of operations, i.e. first I will... and then... etc.  
 
-✔️ Second post is documentation of the making of and final form of your final project
+✔️ **Due Dec 14th** - Second post is documentation of the making of and final form of your final project
   - Any incremental pictures or video showing the way points in the process that link to your original plan.
   - Note any changes or pivots that had to be made, mistakes that were fixed or not overcome, and future improvements, if any. 
   - Pictures + a sample of audio or video with audio of the final product.
