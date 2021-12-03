@@ -1,7 +1,9 @@
 # Hacking Audio Hardware
 
 ## Final Project
-The Final Project is 30% of your final grade.  Please submit two (2) seperate blog posts, which will each count for half of your Final Project grade.  Groups and teams are welcome!  Since we have less than two weeks left in the semester, the project should be something that can be accomplished before the last class.  Final grades are due Dec 23rd, so any late work or extensions must be discussed with me immediately.  
+The Final Project is 30% of your final grade.  Please submit two (2) seperate blog posts, which will each count for half of your Final Project grade.  Groups and teams are welcome!  
+
+📌 Since we have less than two weeks left in the semester, the project should be something that can be accomplished before the last class.  Final grades are due Dec 23rd, so any late work or extensions must be discussed with me immediately.  
 
 
 ### What To Do
